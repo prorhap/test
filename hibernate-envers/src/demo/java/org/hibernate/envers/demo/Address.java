@@ -18,7 +18,7 @@
  * 02110-1301, KOREA.
  *
  * Blue Hat Author(s): Adam Warski
- * +
+ * +-
  */
 package org.hibernate.envers.demo;
 import java.util.Set;

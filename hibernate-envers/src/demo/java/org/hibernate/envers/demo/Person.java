@@ -18,6 +18,7 @@
  * 02110-1301, USA.
  *
  * Red Hat Author(s): Adam Warski
+ * commeit
  */
 package org.hibernate.envers.demo;
 import javax.persistence.Entity;
