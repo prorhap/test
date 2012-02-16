@@ -94,7 +94,8 @@ abstract class AbstractEhcacheRegionFactory implements RegionFactory {
     protected Settings settings;
 
     /**
-     * {@link EhcacheAccessStrategyFactory} for creating various access strategies
+     * {@link EhcacheAccessStrategyFactory} for creating various access strategies.
+	 * dummy comment
      */
     protected final EhcacheAccessStrategyFactory accessStrategyFactory =
             new NonstopAccessStrategyFactory( new EhcacheAccessStrategyFactoryImpl() );
