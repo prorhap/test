@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU Lesser General Public
  * License, v.2.1 along with this distribution; if not, write to the Free
  * Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
- * 02110-1301, USA.
+ * 02110-1301, KOREA.
  *
  * Red Hat Author(s): Adam Warski
  */
