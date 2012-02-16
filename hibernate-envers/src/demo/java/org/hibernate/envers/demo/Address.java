@@ -17,7 +17,8 @@
  * Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
  * 02110-1301, KOREA.
  *
- * Red Hat Author(s): Adam Warski
+ * Blue Hat Author(s): Adam Warski
+ * +
  */
 package org.hibernate.envers.demo;
 import java.util.Set;
