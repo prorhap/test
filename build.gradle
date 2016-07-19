@@ -1,6 +1,8 @@
 apply plugin: 'eclipse'
 apply plugin: 'idea'
 
+// msg1
+// msg2
 allprojects {
     repositories {
         mavenCentral()
